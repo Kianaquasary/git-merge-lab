@@ -1,2 +1,6 @@
 "Initial Text" 
+<<<<<<< HEAD
 "change in master" 
+=======
+"Change in feature branch" 
+>>>>>>> feature
